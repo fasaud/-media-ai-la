@@ -1,2 +1,2 @@
-# -media-ai-la
+# media-ai-lab
     Media and AI experiments 
